@@ -24,18 +24,18 @@
 
 ## AI
 
-**科学计算库:**
-- [快速上手NumPy](https://www.cnblogs.com/bytesfly/p/numpy.html)
-- [快速上手pandas(上)](https://www.cnblogs.com/bytesfly/p/pandas-1.html)
-- [快速上手pandas(下)](https://www.cnblogs.com/bytesfly/p/pandas-2.html)
-
-
 **机器学习:**
 - [从线性回归走进机器学习](AI/linear-regression.md)
 - [最大似然估计](AI/maximum-likelihood-estimation.md)
 
 **深度学习:**
 - [PyTorch中backward()函数的gradient参数作用](AI/why-need-gradient-arg-in-pytorch-backward.md)
+- 
+## Nginx
+
+- [Nginx+keepalived实现双机热备](Nginx/Nginx+keepalived实现双机热备.md)
+- [一文读懂MySQL的索引结构及查询优化](MySQL/mysql-index-theory-and-best-practice.md)
+- [一文读懂MySQL的事务隔离级别及MVCC机制](MySQL/mysql-transaction-innodb-mvcc.md)
 
 
 ## MySQL
