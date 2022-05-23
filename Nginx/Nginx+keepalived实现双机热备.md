@@ -196,7 +196,22 @@ real_server 192.168.39.126 80 本机地址
 
 nginx 监测脚本 vim /etc/keepalived/nginx_check.sh
 
-  #!/bin/bash  set -x     nginx_status=`ps -C nginx --no-header |wc -l`  if [ ${nginx_status} -eq 0 ];then    service  nginx start    sleep 1       if [  `ps -C nginx --no-header |wc -l` -eq 0 ];then  #nginx重启失败        echo -e "$(date): nginx is  not healthy, try to killall keepalived!"   >> /etc/keepalived/keepalived.log        killall keepalived    fi  fi  echo $?  
+```
+#!/bin/bash
+set -x
+
+nginx_status=`ps -C nginx --no-header |wc -l`
+if [ ${nginx_status} -eq 0 ];then
+    service nginx start
+    sleep 1
+
+    if [ `ps -C nginx --no-header |wc -l` -eq 0 ];then    #nginx重启失败
+        echo -e "$(date):  nginx is not healthy, try to killall keepalived!"  >> /etc/keepalived/keepalived.log
+        killall keepalived
+    fi
+fi
+echo $?
+```
 
  
 
