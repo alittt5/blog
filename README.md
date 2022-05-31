@@ -22,6 +22,9 @@
 - [Python开发环境搭建](Python/python-environment.md)
 - [一文上手Python3](https://www.cnblogs.com/bytesfly/p/python.html)
 
+## 论文
+- [论文写作工具](论文/论文写作工具.md)
+
 ## AI
 
 **机器学习:**

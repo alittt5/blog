@@ -3,6 +3,7 @@
   - [Java](README?id=Java)
   - [大数据](README?id=大数据)
   - [Python](README?id=Python)
+  - [论文](README?id=论文)
   - [AI](README?id=AI)
   - [MySQL](README?id=MySQL)
   - [Nginx](README?id=Nginx)
@@ -16,7 +17,6 @@
   
 - [<span class="iconfont icon-lianjie"></span> 友链](about/Friends.md)  
 - [<span class="iconfont icon-wodeguanzhu"></span> 关于本站](about/)
-
 
 
 
