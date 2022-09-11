@@ -34,6 +34,7 @@
 ## AI
 
 **机器学习:**
+- [机器学习常用指标](AI/机器学习常用指标.md)
 - [pandas基础](AI/Pandas基础)
 - [numpy基础](AI/Numpy基础/numpy基础.md)
 - [从线性回归走进机器学习](AI/linear-regression.md)

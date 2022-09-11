@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#机器学习常用指标",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,13 +132,13 @@
   "lastOpenFiles": [
     "_navbar.md",
     "_coverpage.md",
+    "AI/机器学习常用指标.md",
     "README.md",
     "AI/Numpy基础/numpy基础.md",
     "AI/linear-regression.md",
     "python基础/Numpy基础/numpy基础.md",
     "机器学习/Numpy基础/Numpy ndarray.md",
     "Nginx/Nginx+keepalived实现双机热备.md",
-    "AI/maximum-likelihood-estimation.md",
-    "未命名.md"
+    "AI/maximum-likelihood-estimation.md"
   ]
 }
