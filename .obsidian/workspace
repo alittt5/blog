@@ -130,10 +130,10 @@
   },
   "active": "8de24589595daf87",
   "lastOpenFiles": [
-    "_coverpage.md",
-    "AI/Numpy基础/numpy基础.md",
-    "README.md",
     "_navbar.md",
+    "_coverpage.md",
+    "README.md",
+    "AI/Numpy基础/numpy基础.md",
     "AI/linear-regression.md",
     "python基础/Numpy基础/numpy基础.md",
     "机器学习/Numpy基础/Numpy ndarray.md",
