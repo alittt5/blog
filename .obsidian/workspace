@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "92998ce1a0996b23",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de24589595daf87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3498ee72a054e56",
+    "type": "split",
+    "children": [
+      {
+        "id": "46262860f290a885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d885f18c2d3476bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "80bb9228e53539ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b3231509dd40c73",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "882bdeae8cd1f4d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "383164e951fbad4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c53eed25e4034c27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df5f49a22bcfe1b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8131b51e6b5a55e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e728d27cfd1b3bdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8de24589595daf87",
+  "lastOpenFiles": [
+    "_coverpage.md",
+    "AI/Numpy基础/numpy基础.md",
+    "README.md",
+    "_navbar.md",
+    "AI/linear-regression.md",
+    "python基础/Numpy基础/numpy基础.md",
+    "机器学习/Numpy基础/Numpy ndarray.md",
+    "Nginx/Nginx+keepalived实现双机热备.md",
+    "AI/maximum-likelihood-estimation.md",
+    "未命名.md"
+  ]
+}
