@@ -23,11 +23,19 @@
 - [一文上手Python3](https://www.cnblogs.com/bytesfly/p/python.html)
 
 ## 论文
+
 - [论文写作工具](论文/论文写作工具.md)
+
+
+## 算法
+
+- [算法](算法/论文写作工具.md)
 
 ## AI
 
 **机器学习:**
+- [pandas基础](AI/Pandas基础)
+- [numpy基础](AI/Numpy基础/numpy基础.md)
 - [从线性回归走进机器学习](AI/linear-regression.md)
 - [最大似然估计](AI/maximum-likelihood-estimation.md)
 
@@ -45,10 +53,6 @@
 - [一文学会MySQL的explain工具](MySQL/how-to-use-mysql-explain.md)
 - [一文读懂MySQL的索引结构及查询优化](MySQL/mysql-index-theory-and-best-practice.md)
 - [一文读懂MySQL的事务隔离级别及MVCC机制](MySQL/mysql-transaction-innodb-mvcc.md)
-
-## Netty
-
-- [不识Netty真面目，只缘未读此真经](Netty/the-truth-of-netty.md)
 
 ## 设计模式
 
@@ -113,45 +117,7 @@
 
 - [实用网站与工具](Tool/awesome-sites.md)
 
-## 程序人生
-
-- [请用一句话证明你是程序员](Life/how-to-prove-that-you-are-a-programmer.md)
-- [工作中如何做好技术积累](Life/study-vs-work.md)
-- [程序员的谎言](Life/what-are-the-most-common-lies-told-by-programmers.md)
-- [程序员的酒后真言](Life/drunk-post-of-a-programmer.md)
-
 ## 面试题
 
 - [非技术面试题汇总](Interview/non-technical-interview-questions.md)
-
-## LeetCode
-
-**动态规划:**
-- [爬楼梯](LeetCode/0070-climbing-stairs.md)
-- [使用最小花费爬楼梯](LeetCode/0746-min-cost-climbing-stairs.md)
-- [买卖股票的最佳时机](LeetCode/0121-best-time-to-buy-and-sell-stock.md)
-
-**贪心算法:**
-- [跳跃游戏](LeetCode/0055-jump-game.md)
-- [跳跃游戏 II](LeetCode/0045-jump-game-ii.md)
-- [买卖股票的最佳时机 II](LeetCode/0122-best-time-to-buy-and-sell-stock-ii.md)
-
-**链表:**
-- [反转链表](LeetCode/0206-reverse-linked-list.md)
-
-**二叉树**
-- [二叉树的层序遍历](LeetCode/0102-binary-tree-level-order-traversal.md)
-- [对称二叉树](LeetCode/0101-symmetric-tree.md)
-- [二叉树的前序遍历](LeetCode/0144-binary-tree-preorder-traversal.md)
-- [二叉树的中序遍历](LeetCode/0094-binary-tree-inorder-traversal.md)
-- [二叉树的后序遍历](LeetCode/0145-binary-tree-postorder-traversal.md)
-
-**栈和队列**
-- [有效的括号](LeetCode/0020-valid-parentheses.md)
-
-**数组**
-- [移除元素](LeetCode/0027-remove-element.md)
-
-**数学**
-- [只出现一次的数字](LeetCode/0136-single-number.md)
 
