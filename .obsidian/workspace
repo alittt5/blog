@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "BigData/how-to-install-opentsdb.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BigData/how-to-install-opentsdb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BigData/how-to-install-opentsdb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "BigData/how-to-install-opentsdb.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "8de24589595daf87",
   "lastOpenFiles": [
-    "AI/why-need-gradient-arg-in-pytorch-backward.md",
-    "README.md",
     "AI/Deep-learning-from-scratch.md",
+    "README.md",
+    "AI/why-need-gradient-arg-in-pytorch-backward.md",
     "AI/maximum-likelihood-estimation.md",
     "AI/linear-regression.md",
     "AI/周志华-机器学习.pdf",
