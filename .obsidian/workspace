@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#机器学习常用指标",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,15 +130,15 @@
   },
   "active": "8de24589595daf87",
   "lastOpenFiles": [
+    "AI/why-need-gradient-arg-in-pytorch-backward.md",
+    "README.md",
+    "AI/Deep-learning-from-scratch.md",
+    "AI/maximum-likelihood-estimation.md",
+    "AI/linear-regression.md",
+    "AI/周志华-机器学习.pdf",
     "_navbar.md",
     "_coverpage.md",
     "AI/机器学习常用指标.md",
-    "README.md",
-    "AI/Numpy基础/numpy基础.md",
-    "AI/linear-regression.md",
-    "python基础/Numpy基础/numpy基础.md",
-    "机器学习/Numpy基础/Numpy ndarray.md",
-    "Nginx/Nginx+keepalived实现双机热备.md",
-    "AI/maximum-likelihood-estimation.md"
+    "AI/Numpy基础/numpy基础.md"
   ]
 }

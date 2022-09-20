@@ -42,6 +42,7 @@
 
 
 **深度学习:**
+- [深度学习入门](AI/Deep-learning-from-scratch.md)
 - [PyTorch中backward()函数的gradient参数作用](AI/why-need-gradient-arg-in-pytorch-backward.md)
 
 
