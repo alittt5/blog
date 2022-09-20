@@ -9,9 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BigData/how-to-install-opentsdb.md",
+            "file": "AI/Deep-learning-from-scratch.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "e6b910f22b62616a",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "AI/pic/2C`5]_W1_@Q})QR[~L8Z7ZJ.png"
           }
         }
       }
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BigData/how-to-install-opentsdb.md",
+                "file": "AI/Deep-learning-from-scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BigData/how-to-install-opentsdb.md",
+                "file": "AI/Deep-learning-from-scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BigData/how-to-install-opentsdb.md"
+                "file": "AI/Deep-learning-from-scratch.md"
               }
             }
           }
@@ -130,15 +140,15 @@
   },
   "active": "8de24589595daf87",
   "lastOpenFiles": [
+    "AI/pic/2C`5]_W1_@Q})QR[~L8Z7ZJ.png",
     "AI/Deep-learning-from-scratch.md",
+    "AI/linear-regression.md",
+    "BigData/how-to-install-opentsdb.md",
     "README.md",
     "AI/why-need-gradient-arg-in-pytorch-backward.md",
     "AI/maximum-likelihood-estimation.md",
-    "AI/linear-regression.md",
     "AI/周志华-机器学习.pdf",
     "_navbar.md",
-    "_coverpage.md",
-    "AI/机器学习常用指标.md",
-    "AI/Numpy基础/numpy基础.md"
+    "_coverpage.md"
   ]
 }
