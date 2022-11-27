@@ -4,16 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b910f22b62616a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AI/melon book.md",
-            "mode": "source",
-            "source": false
+        "id": "f8d2d4f9ed928da1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6b910f22b62616a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/melon book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d39e93628b4016a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "7f20bb3aaa11225b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +60,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/melon book.md",
+                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/melon book.md",
+                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/melon book.md"
+                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md"
               }
             }
           }
@@ -128,17 +159,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e6b910f22b62616a",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7f20bb3aaa11225b",
   "lastOpenFiles": [
+    "DesignPattern/adapter-pattern.md",
+    "AI/melon book.md",
+    "DesignPattern/bridge-pattern.md",
+    "AI/机器学习常用指标.md",
+    "AI/Numpy基础/img/3-2.png",
+    "论文/传播动力学/DEDiscover-差分进化算法工具.md",
     "AI/maximum-likelihood-estimation.md",
     "AI/why-need-gradient-arg-in-pytorch-backward.md",
     "AI/pumpkin_book.pdf",
-    "AI/周志华-机器学习.pdf",
-    "AI/Deep-learning-from-scratch.md",
-    "AI/机器学习常用指标.md",
-    "AI/melon book.md",
-    "BigData/flink-stream-processing-theory.md",
-    "AI/pic/2C`5]_W1_@Q})QR[~L8Z7ZJ.png",
-    "pic/MI[D@_RGD[TP()9}Q9(6VYT.png.md"
+    "AI/周志华-机器学习.pdf"
   ]
 }
