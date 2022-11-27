@@ -11,9 +11,11 @@
             "id": "e6b910f22b62616a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "论文/传播动力学/Pasted image 20221127123344.png"
+                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/传播动力学/Pasted image 20221127123344.png",
+                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/传播动力学/Pasted image 20221127123344.png",
+                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/传播动力学/Pasted image 20221127123344.png"
+                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md"
               }
             }
           }
@@ -139,9 +141,9 @@
   },
   "active": "e6b910f22b62616a",
   "lastOpenFiles": [
-    "Pasted image 20221013172536.png",
     "论文/传播动力学/Pasted image 20221127123344.png",
     "论文/传播动力学/DEDiscover-差分进化算法工具.md",
+    "Pasted image 20221013172536.png",
     "AI/melon book.md",
     "DesignPattern/adapter-pattern.md",
     "DesignPattern/bridge-pattern.md",

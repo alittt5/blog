@@ -1,6 +1,7 @@
 ## 1.资源链接
 
 https://dediscover.org/intro/
+
 https://github.com/aleblanc39/dediscover
 
 ## 2. 安装步骤
@@ -63,6 +64,7 @@ sudo apt install maven
 **git拉取**
 
 https://github.com/aleblanc39/gradle-cmake-plugin
+
 https://github.com/aleblanc39/dediscover
 ```
 在gradle-cmake-plugin文件夹内
@@ -70,6 +72,4 @@ gradle publishToMavenLocal
 在dediscover文件夹内
 gradle runDED
 ```
-
-当出现下图时，安装完成。
-![[Pasted image 20221127123344.png]]
+第一次需要时间进行加载，时间可能有点长。
