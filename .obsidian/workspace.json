@@ -11,38 +11,13 @@
             "id": "e6b910f22b62616a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AI/melon book.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d39e93628b4016a3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
-          },
-          {
-            "id": "7f20bb3aaa11225b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
-                "mode": "source",
-                "source": false
+                "file": "论文/传播动力学/Pasted image 20221127123344.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
+                "file": "论文/传播动力学/Pasted image 20221127123344.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md",
+                "file": "论文/传播动力学/Pasted image 20221127123344.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/传播动力学/DEDiscover-差分进化算法工具.md"
+                "file": "论文/传播动力学/Pasted image 20221127123344.png"
               }
             }
           }
@@ -162,17 +137,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7f20bb3aaa11225b",
+  "active": "e6b910f22b62616a",
   "lastOpenFiles": [
-    "DesignPattern/adapter-pattern.md",
+    "Pasted image 20221013172536.png",
+    "论文/传播动力学/Pasted image 20221127123344.png",
+    "论文/传播动力学/DEDiscover-差分进化算法工具.md",
     "AI/melon book.md",
+    "DesignPattern/adapter-pattern.md",
     "DesignPattern/bridge-pattern.md",
     "AI/机器学习常用指标.md",
     "AI/Numpy基础/img/3-2.png",
-    "论文/传播动力学/DEDiscover-差分进化算法工具.md",
     "AI/maximum-likelihood-estimation.md",
-    "AI/why-need-gradient-arg-in-pytorch-backward.md",
-    "AI/pumpkin_book.pdf",
-    "AI/周志华-机器学习.pdf"
+    "AI/why-need-gradient-arg-in-pytorch-backward.md"
   ]
 }
